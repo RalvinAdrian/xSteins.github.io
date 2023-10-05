@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2023-10-05T00:47:04.783Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" version="22.0.2" etag="WhyRoieqBnUcAi7KM6uj" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-05T00:48:24.742Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="SgfUR89wV5N7ynZKZKhE" version="22.0.2" type="github">
   <diagram name="Page-1" id="siwr8yIWs1aXNSe9Cr3A">
-    <mxGraphModel>
+    <mxGraphModel dx="378" dy="184" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZIO4t9sLyXfm2DlWScKK-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="50" width="150" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIO4t9sLyXfm2DlWScKK-2" value="Mahasiswa" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIO4t9sLyXfm2DlWScKK-3" value="Aplikasi Sidang Skripsi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="50" width="130" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
